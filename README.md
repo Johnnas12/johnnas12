@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yohanes Mesfin</h1>
-<h3 align="center">A passionate Full stack developer from Ethiopia!</h3>
+<h1 align="center">I'm Yohanes</h1>
+<h3 align="center"> 📍Ethiopia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnnas12&label=Profile%20views&color=0e75b6&style=flat" alt="johnnas12" /> </p>
 
